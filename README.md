@@ -1,1 +1,1 @@
-Kotlin, accessing themoviedb API, with retrofit (REST API)
+Kotlin (jetpack compose), accessing themoviedb API, with retrofit (REST API)
